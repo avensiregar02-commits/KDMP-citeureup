@@ -1,0 +1,6 @@
+{
+  "name": "KOPDES Cipageran - Koperasi Desa & Marketplace Modern",
+  "description": "Microsite & Marketplace Modern Koperasi Desa Cipageran, Kota Cimahi. Belanja produk UMKM, layanan anggota, profil desa, promo, agenda kegiatan, dan AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
